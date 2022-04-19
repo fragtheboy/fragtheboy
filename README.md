@@ -1,5 +1,5 @@
 Howdy, I am Pratham.
-I am a Web Developer,Software Engineer and soon to be Machine Learning Engineer.
+I am a Web Developer, Software Engineer soon to be a Data Analyst and aMachine Learning Engineer.
 You may drop a mail to me on prathampurohit@rediffmail.com.
 
 Front-End-Mentor - https://www.frontendmentor.io/profile/prathammpurohit
