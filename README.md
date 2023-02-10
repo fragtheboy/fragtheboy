@@ -19,6 +19,6 @@ const pratham = {
 }
 ```
 
-<img src="https://media.giphy.com/media/L2b7L9LtoegkhIuPV9/giphy.gif" width="100"><a href="https://www.linkedin.com/in/pratham-purohit-025298217/" style="text-decoration:none;"> <em><b>I love breaking bad with different people,</b> so if you want to break bad, <b>let's connect!</b></em></a>
+<a href="https://www.linkedin.com/in/pratham-purohit-025298217/" style="text-decoration:none;"> <em><b>I love breaking bad with different people,</b> so if you want to break bad, <b>let's connect!</b></em></a>
 
 ---
