@@ -16,10 +16,13 @@ const knowPratham=(requestUrl)=>{
         'status':200,
         'languages known':{
           staticallyTypedOG:['C','C++','Java'],
-          dynamicallyTyped:[{'Javascript':{
-            'frontEnd':['VaniallaJS','BarbaJs,'ReactJS','Basically any library:)'],
-            'backEnd':'NodeJs
-          }}]
+          dynamicallyTyped:[
+            {'Javascript':{
+              'frontEnd':['VaniallaJS','BarbaJs,'ReactJS','Basically any library:)'],
+              'backEnd':'NodeJs
+              }
+            },
+            'Learning Ruby and Rails these days']
          },
          'what does he do':['Cometitive Coding Using Java, C/Cpp','Interns/ Freelances',
                             'Lives in the blue','Have a secret relationship with UNIX systems']
