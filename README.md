@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/My7W2lT1A4iXFhGxie/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Pratham Purohit! <img src="https://media.giphy.com/media/My7W2lT1A4iXFhGxie/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a><img src="https://media.giphy.com/media/Vh2PDNlPoJ6XoPDcIc/giphy.gif" width="40"></br>I contribute to cook open-source projects and wish to cook dozens myself. I hunt internships meanwhile<img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="40"> 
 </em></p>
