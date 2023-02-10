@@ -1,6 +1,6 @@
 <h1> Howdy, I'm Pratham Purohit! <img src="https://media.giphy.com/media/My7W2lT1A4iXFhGxie/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/3ohzdPRIXsiTOytOPC/giphy.gif" width="180">
-<p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a></br>I assist cooking open-source projects and wish to cook dozens myself. I hunt internships meanwhile<img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="100"> 
+<p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a></br>I assist cooking open-source projects and wish to cook dozens myself. I hunt internships meanwhile<br><img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="100"> 
 </em></p>
 
 [![GitHub prathammpurohit](https://img.shields.io/github/followers/prathammpurohit?label=follow&style=social)](https://github.com/prathammpurohit)
