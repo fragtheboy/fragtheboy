@@ -35,7 +35,7 @@ const knowPratham=(requestUrl)=>{
     else reject({status:404});
     });
  }
- knowPratham('/about').then((response)>{console.log("You have known him");})
+ knowPratham('/about').then((response)=>{console.log("You have known him");})
  .catch(response=>{console.log("I mean it's just a gimmick🤧 to show off, you've known me either");})
 ```
 Willing to break bad with me?<a href="odepen.io/prathammpurohit"> Tap to contact me.</a>
