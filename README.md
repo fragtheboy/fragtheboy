@@ -14,18 +14,23 @@ const knowPratham=(requestUrl)=>{
     if(c_typedef_browswer_renders)
       response({
         'status':200,
-        'languages known':{
+        'techStack':{
           staticallyTypedOG:['C','C++','Java'],
           dynamicallyTyped:[
             {'Javascript':{
                 'frontEnd':['VaniallaJS','BarbaJs,'ReactJS','Basically any library:)'],
-                'backEnd':'NodeJs
+                'backEnd':'NodeJs'
               }
             },
             'Learning Ruby and Rails these days'],
           },
-         'darkSecret':['Cometitive Coding Using Java, C/Cpp','Interns/ Freelances',
-                            'Lives in the blue','Have a secret relationship with UNIX systems']
+         'darkSecret':['Cometitive Coding Using Java, C/Cpp',
+                       'Interns/ Freelances',
+                       'Lives in the blue',
+                       'Have a secret relationship with UNIX systems'],
+         'whatHeDoes':['fullstack developer',
+                       'researching on Bioinfo for his ML infatuation',
+                       'secretly learning web3 technologies']
                             
       });
     else reject({status:404});
