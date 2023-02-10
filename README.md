@@ -1,11 +1,23 @@
-Howdy, I am Pratham.
-I am a Web Developer, Software Engineer, soon to be a Data Analyst and Machine Learning Engineer.
-You may drop a mail to me on prathampurohit@rediffmail.com.
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/My7W2lT1A4iXFhGxie/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a><img src="https://media.giphy.com/media/Vh2PDNlPoJ6XoPDcIc/giphy.gif" width="40"></br>I contribute to cook open-source projects and wish to cook dozens myself. I hunt internships meanwhile<img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="40"> 
+</em></p>
 
-Front-End-Mentor - https://www.frontendmentor.io/profile/prathammpurohit
+[![Linkedin: prathampurohit](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/pratham-purohit-025298217/)
+[![GitHub prathammpurohit](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/prathammpurohit)
 
-LinkedIn         - https://www.linkedin.com/in/pratham-purohit-025298217/
-<!---
-prathammpurohit/prathammpurohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### <img src="https://media.giphy.com/media/mFe1RIfvGduck9VVS1/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const pratham = {
+  pronouns: "he" | "him",
+  fullstack: [HTML, CSS, Sass, Javascript, BarbaJs, ReactJs, NodeJs],
+  theOG: [bashScript, C, C++, Java],
+ whatIDo: "I feel jealous looking awesome websites online, and yeah the jealousy motivates me to code more🤧. I do comeptitive coding using C,C++ and Java meantimes."
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
