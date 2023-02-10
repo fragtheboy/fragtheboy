@@ -39,6 +39,6 @@ const knowPratham=(requestUrl)=>{
  knowPratham('/about').then((response)>{console.log("You have known him");})
  .catch(response=>{console.log("I mean it's just a gimmick🤧 to show off, you've known me either");})
 ```
-Willing to break bad with me?<a href="odepen.io/prathammpurohit" Tap to contact me.</a>
+Willing to break bad with me?<a href="odepen.io/prathammpurohit"> Tap to contact me.</a>
 
 ---
