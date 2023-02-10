@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a><img src="https://media.giphy.com/media/Vh2PDNlPoJ6XoPDcIc/giphy.gif" width="40"></br>I contribute to cook open-source projects and wish to cook dozens myself. I hunt internships meanwhile<img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="40"> 
 </em></p>
-
-<a href="https://www.linkedin.com/in/pratham-purohit-025298217"<img src="https://icons8.com/icon/80451/linkedin-circled"></a>
+<br>
+<a href="https://www.linkedin.com/in/pratham-purohit-025298217"><img src="https://icons8.com/icon/80451/linkedin-circled"></a>
 [![GitHub prathammpurohit](https://img.shields.io/github/followers/prathammpurohit?label=follow&style=social)](https://github.com/prathammpurohit)
 
 
