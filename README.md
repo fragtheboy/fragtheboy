@@ -3,8 +3,8 @@
 <p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a><img src="https://media.giphy.com/media/Vh2PDNlPoJ6XoPDcIc/giphy.gif" width="40"></br>I contribute to cook open-source projects and wish to cook dozens myself. I hunt internships meanwhile<img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="40"> 
 </em></p>
 
-[![Linkedin: prathampurohit](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/pratham-purohit-025298217/)
-[![GitHub prathammpurohit](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/prathammpurohit)
+[![Linkedin: prathampurohit](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratham-purohit-025298217/)](https://www.linkedin.com/in/pratham-purohit-025298217/)
+[![GitHub prathammpurohit](https://img.shields.io/github/followers/prathammpurohit?label=follow&style=social)](https://github.com/prathammpurohit)
 
 
 ### <img src="https://media.giphy.com/media/mFe1RIfvGduck9VVS1/giphy.gif" width="50"> A little more about me...  
