@@ -24,13 +24,13 @@ const knowPratham=(requestUrl)=>{
             },
             'Learning Ruby and Rails these days'],
           },
-         'darkSecret':['Cometitive Coding Using Java, C/Cpp',
+         'whatHeDoes':['Fullstack Developer',
+                       'Researching on Bioinfo for his ML infatuation',
                        'Interns/ Freelances',
-                       'Lives in the blue',
-                       'Have a secret relationship with UNIX systems'],
-         'whatHeDoes':['fullstack developer',
-                       'researching on Bioinfo for his ML infatuation',
-                       'secretly learning web3 technologies']
+                       'Cometitive Coding Using Java, C/Cpp']
+          'darkSecrets':['Has a crush on UNIX systems, wishes to get in a relationship with kernel development',
+                        'secretly grasping web3 technologies',
+                        'Lives in the blue']
                             
       });
     else reject({status:404});
