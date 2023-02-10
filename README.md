@@ -1,5 +1,5 @@
 <h2> Hi, I'm Pratham Purohit! <img src="https://media.giphy.com/media/My7W2lT1A4iXFhGxie/giphy.gif" width="50"></h2>
-<img align='right' src="DALL·E 2023-02-10 11.51.32 - walter white coding.png" width="200">
+<img align='right' src="https://media.giphy.com/media/3ohzdPRIXsiTOytOPC/giphy.gif" width="200">
 <p><em>I am an undergraduate Machine Learning And Deep Learning Research Scholar at <a href="https://shooliniuniversity.com/">Shoolini University Of Biotechnology And Management Sciences</a><img src="https://media.giphy.com/media/Vh2PDNlPoJ6XoPDcIc/giphy.gif" width="60"></br>I assist cooking open-source projects and wish to cook dozens myself. I hunt internships meanwhile<img src="https://media.giphy.com/media/Un1LLxF5NodZ4rl73S/giphy.gif" width="60"> 
 </em></p>
 
