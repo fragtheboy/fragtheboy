@@ -13,7 +13,9 @@ const pratham = {
   pronouns: "he" | "him",
   fullstack: [HTML, CSS, Sass, Javascript, BarbaJs, ReactJs, NodeJs],
   theOG: [bashScript, C, C++, Java],
- whatIDo: "I feel jealous looking awesome websites online, and yeah the jealousy motivates me to code more🤧. I do comeptitive coding using C,C++ and Java meantimes."
+ whatIDo: "I feel jealous looking awesome websites online,
+           and yeah the jealousy motivates me to code more🤧.
+           I do comeptitive coding using C,C++ and Java meantimes."
 }
 ```
 
