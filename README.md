@@ -18,7 +18,7 @@ const knowPratham=(requestUrl)=>{
           staticallyTypedOG:['C','C++','Java'],
           dynamicallyTyped:[
             {'Javascript':{
-                'frontEnd':['VaniallaJS','BarbaJs,'ReactJS','Basically any library:)'],
+                'frontEnd':['VaniallaJS','BarbaJs','ReactJS','Basically any library:)'],
                 'backEnd':'NodeJs'
               }
             },
