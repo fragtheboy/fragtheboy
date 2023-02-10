@@ -27,9 +27,9 @@ const knowPratham=(requestUrl)=>{
                        'Researching on Bioinfo for his ML infatuation',
                        'Interns/ Freelances',
                        'Cometitive Coding Using Java, C/Cpp'],
-          darkSecrets:['Has a crush on UNIX systems, wishes to get in a relationship with kernel development',
-                        'secretly grasping web3 technologies',
-                        'Lives in the blue']
+          darkSecrets:['Has a crush on UNIX systems, wishes to get into a relationship with kernel development',
+                       'secretly grasping web3 technologies',
+                       'Lives in the blue']
           }
         });                   
     else reject({status:404});
