@@ -6,7 +6,7 @@
 [![GitHub prathammpurohit](https://img.shields.io/github/followers/prathammpurohit?label=follow&style=social)](https://github.com/prathammpurohit)
 
 
-### <img src="https://media.giphy.com/media/mFe1RIfvGduck9VVS1/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="60"> A little more about me...  
 
 ```javascript
 const pratham = {
