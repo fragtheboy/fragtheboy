@@ -8,7 +8,7 @@ I have spent 2 years of my life in web development using HTML, CSS & JavaScript 
 
 BTW I use an Arch-based Linux(Manjaro), and I use VIM for development.
 
-Currently, I am practising/learning Discrete Mathematics, Machine Learning and Cross-Platform Development.
+Currently, I am practising/learning THE COMPUTER SCIENCE ENGINEERING CONCEPTS(which most people confuse with development), Discrete Mathematics, Machine Learning and Cross-Platform Development.
 
 Thanks for visiting.
 
