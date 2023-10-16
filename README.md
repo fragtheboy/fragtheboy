@@ -2,7 +2,7 @@ Howdy, my name is Pratham, a junior year computer science and engineering underg
 
 I am polyglot developer, who primarily uses statically typed languages- Rust, C, C++, Go, Typescript, Java (however, I have coded a lot of JavaScript and Python before.)
 
-My interests lie in building command line utilites; mutli-threaded development; web development using web assembly; and, machine learning algorithms (BTW using C/C++).
+My interests lie in building command line utilites; Mutli-threaded development; OpenGL; WebGL; Web development using web assembly; and, machine learning algorithms (BTW using C/C++).
 
 I have spent 2 years of my life in web development using HTML, CSS & JavaScript + JavaScript libraries/frameworks (worst mistake of my life), so I kind of posses a good amount of knowledge in it (because I can code my own vanilla javascript single page application router)
 
