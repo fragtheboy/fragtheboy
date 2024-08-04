@@ -1,10 +1,17 @@
-# Pratham Purohit
-**1. A chameleonic software developer who works on web, and command line utility tools and apps.**
+You are watching a master at work ⚓
 
-**2. I enjoy configuring my neovim setup and playing csgo(I lied here) (I make my soul suffer playing csgo)(I didn't lie here).**
+![Let me cook](./pinterest.gif)
 
-**3. Being a chameleon I can blend perfectly to any tech stack**
+---
 
-_Thanks for the visit tho_
+My stage name's **Frag** but you can call me **Pratham**, if we ever get to converse. And, this is my room. Yes, I actually play guitar, and very recently I have started composing my own music. 👽
 
-**and i use arch and vim btw**
+Btw, I love doodling! 🎈
+
+You will find me crafting and polishing open source projects here. Btw, I use vim and am typing this all in the dvoark layout 🐊
+
+Hahh, alright, you may have a walk here now. 🏖️
+
+![Walk walk](./_.gif)
+
+---
