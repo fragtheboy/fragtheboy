@@ -4,7 +4,7 @@ You are watching a master at work ⚓
 
 ---
 
-My stage name's **Frag** but you can call me **Pratham**, if we ever get to converse. And, this is my room. Yes, I actually play guitar, and very recently I have started composing my own music. 👽
+My stage name's **Frag** but you can call me **Pratham** if we ever get to converse. And, this is my room. Yes, I actually play guitar, and very recently I have started composing my own music. 👽
 
 Btw, I love doodling! 🎈
 
