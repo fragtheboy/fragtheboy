@@ -1,5 +1,3 @@
-You are watching a master at work ⚓
-
 ![Let me cook](./pinterest.gif)
 
 ---
